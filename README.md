@@ -1,11 +1,11 @@
-About python-fsutil
-===================
+About python-fsutil-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-fsutil-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/fabiocaccamo/python-fsutil
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-fsutil-feedstock/blob/main/LICENSE.txt)
 
 Summary: file-system utilities for lazy devs.
 
