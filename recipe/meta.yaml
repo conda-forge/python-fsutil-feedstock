@@ -1,5 +1,5 @@
 {% set name = "python-fsutil" %}
-{% set version = "0.16.0" %}
+{% set version = "0.17.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: dc957a3541215baa935f66f6f15ceb9a8b7f803919c3d99fa57c818fc545f288
+  sha256: 80d3ec6ed79b5fc5669b791aeefd9df88eb1eb027efe57d2460175bf98f37c95
 
 build:
   number: 0
